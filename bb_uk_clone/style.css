@@ -1,0 +1,36 @@
+
+
+.main-header{
+    background: blue;
+    height: 400px;
+}
+
+.header-wrapper{
+    background: yellow;
+}
+
+.header-top{
+    background: green;
+}
+
+.header-bottom{
+    background: pink;
+}
+
+.header-left-container,
+header-right-container{
+    background: teal;
+    display: flex;
+}
+
+.left{
+    background: navy;
+    flex: 1;
+}
+
+.right{
+    background: indigo;
+    flex: 1;
+}
+
+
